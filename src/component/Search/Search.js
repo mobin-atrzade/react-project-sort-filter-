@@ -24,5 +24,4 @@ const SearchBar = ({ filter }) => {
         </div>
     )
 }
-
 export default SearchBar;
